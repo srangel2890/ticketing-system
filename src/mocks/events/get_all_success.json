@@ -1,0 +1,280 @@
+[
+    {
+        "id": 1,
+        "name": "Sinergia",
+        "description": "SINERGIA by José Mora. Una noche donde la música, los caballos y la emoción se unen para crear algo difícil de explicar… hay que vivirlo. Jose Mora es uno de los cantantes más importantes de pop Flamenco a nivel internacional. Arte y Pasión en el escenario que sin duda, no dejará a nadie indiferente. No se lo pierdan.",
+        "starts_at": "2027-12-13T02:20:15.487Z",
+        "ends_at": "2027-12-13T02:20:15.487Z",
+        "sales_end_date": null,
+        "capacity": null,
+        "status": null,
+        "venue": {
+            "id": 1,
+            "name": "Teatro Metropolitano",
+            "map": "/assets/venues/1.png"
+        },
+        "ticket_types": [
+            {
+                "id": 1,
+                "name": "General",
+                "price": "500.0",
+                "quantity": 200
+            },
+            {
+                "id": 2,
+                "name": "Platino A",
+                "price": "900.0",
+                "quantity": 150
+            },
+            {
+                "id": 3,
+                "name": "Platino B",
+                "price": "800.0",
+                "quantity": 150
+            },
+            {
+                "id": 4,
+                "name": "Platino C",
+                "price": "800.0",
+                "quantity": 150
+            },
+            {
+                "id": 5,
+                "name": "VIP",
+                "price": "1200.0",
+                "quantity": 50
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Carga Emocional",
+        "description": "Te invitamos a visitar la exposición: “Carga Emocional”, del artista Julien de Casablanca que invita al público a reflexionar sobre la memoria, las emociones y el diálogo entre el arte clásico y el espacio urbano.",
+        "starts_at": "2027-11-15T23:13:01.105Z",
+        "ends_at": "2027-11-16T01:13:22.960Z",
+        "sales_end_date": null,
+        "capacity": null,
+        "status": null,
+        "venue": {
+            "id": 2,
+            "name": "Museo de Arte Nacional: sala 4.",
+            "map": "/assets/venues/2.png"
+        },
+        "ticket_types": [
+            {
+                "id": 6,
+                "name": "General",
+                "price": "100.0",
+                "quantity": 250
+            },
+            {
+                "id": 7,
+                "name": "Left Theater Box",
+                "price": "120.0",
+                "quantity": 100
+            },
+            {
+                "id": 8,
+                "name": "Right Theater Box",
+                "price": "120.0",
+                "quantity": 100
+            },
+            {
+                "id": 9,
+                "name": "Zone A",
+                "price": "150.0",
+                "quantity": 50
+            },
+            {
+                "id": 10,
+                "name": "Zone B",
+                "price": "150.0",
+                "quantity": 50
+            },
+            {
+                "id": 11,
+                "name": "Zone C",
+                "price": "150.0",
+                "quantity": 50
+            },
+            {
+                "id": 12,
+                "name": "Zone D",
+                "price": "150.0",
+                "quantity": 50
+            },
+            {
+                "id": 13,
+                "name": "Zone E",
+                "price": "150.0",
+                "quantity": 50
+            },
+            {
+                "id": 14,
+                "name": "Zone F",
+                "price": "150.0",
+                "quantity": 50
+            },
+            {
+                "id": 15,
+                "name": "VIP A",
+                "price": "200.0",
+                "quantity": 30
+            },
+            {
+                "id": 16,
+                "name": "VIP B",
+                "price": "200.0",
+                "quantity": 30
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Cultura a voluntad",
+        "description": "La muestra reúne el trabajo de doce fotógrafos que presentan una serie de retratos de agentes culturales con amplia trayectoria en Querétaro, ofreciendo una mirada al talento, la identidad y la contribución de quienes han fortalecido la vida artística y cultural de la ciudad",
+        "starts_at": "2027-11-15T23:13:01.105Z",
+        "ends_at": "2027-11-16T01:13:22.960Z",
+        "sales_end_date": null,
+        "capacity": null,
+        "status": null,
+        "venue": {
+            "id": 3,
+            "name": "Centro queretano de la imagen",
+            "map": "/assets/venues/3.png"
+        },
+        "ticket_types": [
+            {
+                "id": 17,
+                "name": "A",
+                "price": "80.0",
+                "quantity": 20
+            },
+            {
+                "id": 18,
+                "name": "B",
+                "price": "80.0",
+                "quantity": 20
+            },
+            {
+                "id":19 ,
+                "name": "C",
+                "price": "120.0",
+                "quantity": 20
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Objetos curiosos de Dan Marte",
+        "description": "Exposición de Dan Marte que presenta una serie de objetos cerámicos de carácter lúdico y fantástico, como parte de la celebración por los 12 años de Estudio Cerámico Contemporáneo",
+        "starts_at": "2027-11-15T23:13:01.105Z",
+        "ends_at": "2027-11-16T01:13:22.960Z",
+        "sales_end_date": null,
+        "capacity": null,
+        "status": null,
+        "venue": {
+            "id": 4,
+            "name": "MACO",
+            "map": "/assets/venues/4.png"
+        },
+        "ticket_types": [
+            {
+                "id": 20,
+                "name": "A",
+                "price": "80.0",
+                "quantity": 20
+            },
+            {
+                "id": 21,
+                "name": "B",
+                "price": "80.0",
+                "quantity": 20
+            },
+            {
+                "id":22 ,
+                "name": "C",
+                "price": "120.0",
+                "quantity": 20
+            },
+            {
+                "id":23,
+                "name": "D",
+                "price": "120.0",
+                "quantity": 20
+            },
+              {
+                "id":24,
+                "name": "E",
+                "price": "120.0",
+                "quantity": 20
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Jazz en Movimiento",
+        "description": "Jazz en Movimiento (JEM) nació gracias a un grupo de personas que decidieron compartir su pasión por la música en el año 2017, han tenido el objetivo de compartir su dedicación a ella con presentaciones en vivo en festivales, con fanáticos de diversas nacionalidades.",
+        "starts_at": "2027-11-15T23:13:01.105Z",
+        "ends_at": "2027-11-16T01:13:22.960Z",
+        "sales_end_date": null,
+        "capacity": null,
+        "status": null,
+        "venue": {
+            "id": 5,
+            "name": "Centro de las artes",
+            "map": "/assets/venues/5.png"
+        },
+        "ticket_types": [
+            {
+                "id": 25,
+                "name": "General",
+                "price": "100.0",
+                "quantity": 200
+            },
+            {
+                "id": 26,
+                "name": "Zone A",
+                "price": "80.0",
+                "quantity": 20
+            },
+            {
+                "id":27 ,
+                "name": "Zone B",
+                "price": "80.0",
+                "quantity": 20
+            },
+            {
+                "id":28,
+                "name": "Zone C",
+                "price": "80.0",
+                "quantity": 20
+            },
+              {
+                "id":29,
+                "name": "Zone D",
+                "price": "80.0",
+                "quantity": 20
+            },
+              {
+                "id":30,
+                "name": "Zone E",
+                "price": "80.0",
+                "quantity": 20
+            },
+              {
+                "id":31,
+                "name": "VIP A",
+                "price": "200.0",
+                "quantity": 20
+            },
+              {
+                "id":32,
+                "name": "VIP B",
+                "price": "200.0",
+                "quantity": 20
+            }
+        ]
+    }
+
+]

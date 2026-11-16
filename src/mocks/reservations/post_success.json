@@ -1,0 +1,1 @@
+{"id":10,"total":"1200.0","confirmation_code":"1a342d216baf","venue":{"id":1,"name":"Teatro Metropolitano"},"tickets":[{"id":10,"code":"c5ed588ffbbc7726","attendee_name":"Sara","attendee_email":"sara@example.com","ticket_type":{"id":2,"name":"VIP","price":"1200.0"}}]}
